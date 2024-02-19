@@ -18,7 +18,7 @@ Table 1. Infrastructure Datasets
 ||| 
 |||
 ## ArcGIS Tools Used
-Survey123
-ArcGIS Maps SDK
-ArcGIS Online
-ArcGIS Pro
+- Survey123
+- ArcGIS Maps SDK
+- ArcGIS Online
+- ArcGIS Pro
