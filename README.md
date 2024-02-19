@@ -9,7 +9,7 @@ This is where Re.Place comes in. Re.Place is a collection of web apps, citizen s
 Collects community damage reports and creates a layer with the locations and descriptions of each damage report
 ### Re.Place App
 ### Re.Place Infrastructure Risk Analysis Layer
-Displays a likelihood of infrastrucutre damage for certain areas based on infrastructure age in that area.
+Displays a likelihood of infrastructure damage for certain areas based on infrastructure age in that area.
 ## Open Data Sources
 Table 1. Infrastructure Datasets
 | Source | Data Provider |
