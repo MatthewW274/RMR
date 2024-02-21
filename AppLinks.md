@@ -1,5 +1,5 @@
 # Hosted in ArcGIS Online
-Survey:
-App: 
+- Survey:
+= App: 
 # Hosted on GitHub
-Risk Analysis Script: 
+= Risk Analysis Script: 
