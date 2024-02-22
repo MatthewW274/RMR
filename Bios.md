@@ -2,7 +2,7 @@
 
 ## Team Member Bios
 
-<img src="../images/Rachel L.jpg" style="height:300px; margin:0 .5em .25em 0; float: left;" /> 
+    <img src="../images/Rachel L.jpg" style="height:300px; margin:0 .5em .25em 0; float: left;" /> 
 
 ***Rachel Liu***
 
