@@ -4,7 +4,7 @@
 
 <img src="images/Rachel L.jpg" style="height:300px; margin:0 .5em .25em 0; float: left;" /> 
 
-***Rachel Liu***
+***Rachel Liu***: I am a fourth-year student at the University of Waterloo majoring in Geography and Environmental Management. My interests lie with water quality and hydrology, and I enjoy mystery novels and sudoku in my spare time. 
 
 <img src="images/Rachel P.jpg" style="height:300px; margin:0 .5em .25em 0; float: left;" /> 
 
