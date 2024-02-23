@@ -24,7 +24,8 @@ Table 1. Infrastructure Datasets
 |Hydro Poles|City of Kitchener|
 ## ArcGIS Tools Used
 - Survey123
-- ArcGIS Maps SDK
+- ArcGIS Experience Builder
+- ArcGIS Pro
 - ArcGIS Online
 ## References
 - Urban Sprawl and Decay: https://www.everythingconnects.org/urban-sprawl.html
