@@ -15,13 +15,8 @@ This layer displays the risk level for areas in Kitchener through sectioning the
 Table 1. Infrastructure Datasets
 | Source | Data Provider |
 |---|---|
-|Water Mains|City of Kitchener|
 |Water Main Breaks|City of Kitchener| 
-|Water Service Pipes|City of Kitchener|
-|Roads|City of Kitchener|
-|GRT Stops|Region of Waterloo|
-|GRT Routes|Region of Waterloo|
-|Hydro Poles|City of Kitchener|
+|Building Outlines|City of Kitchener|
 ## ArcGIS Tools Used
 - Survey123
 - ArcGIS Experience Builder
