@@ -10,7 +10,7 @@ Collects community damage reports and creates a layer with the locations and des
 ### Re.Place App
 The Re.Place app displays a number of infrastructure reference layers along with infrastructure damage points from the damage reporting survey, and a heat map of where those points are located in the community. The Re.Place app also show the infrastructure risk analysis layer outlined below. This app acts as an all-in-one solution for displaying both infrastructure damage reports and risk for neighbourhoods to be subject to infrastructure damage.
 ### Re.Place Infrastructure Risk Analysis Layer
-Displays a likelihood of infrastructure damage for certain areas based on infrastructure age in that area. This layer uses js to display a teselation for the likelihood of infrastructure damage, while taking into account the age of the surrounding infrastructure in the area and its tendency to break. You can find the code in the ____ file in our GitHub.
+This layer displays the risk level for areas in Kitchener through sectioning the city into a hexagonal tessellation based on the average age of buildings present in the area as well as the number of water main leaks that have occurred in the past. 
 ## Open Data Sources
 Table 1. Infrastructure Datasets
 | Source | Data Provider |
